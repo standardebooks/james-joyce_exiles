@@ -63,7 +63,7 @@
 		<meta property="se:production-notes">According to the Project Gutenberg copyright clearance database, the transcription used for this Standard Ebook corresponds to the 1921 second English edition published by Egoist Press. The 2016 critical edition of Exiles notes discrepancies between Joyce's fair copy manuscript of the play and all published editions preceding their own. As neither the critical edition nor the manuscript belong to the public domain, this Standard Ebook follows the scans of the 1921 Egoist Press edition.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Exiles</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Exiles_(play)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/james-joyce_exiles</meta>
 		<dc:creator id="author">James Joyce</dc:creator>
 		<meta property="file-as" refines="#author">Joyce, James</meta>
