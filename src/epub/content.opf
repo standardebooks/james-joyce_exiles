@@ -63,7 +63,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/55945</dc:source>
 		<dc:source>https://archive.org/details/playinthreexiles00joycrich</dc:source>
 		<meta property="se:production-notes">According to the Project Gutenberg copyright clearance database, the transcription used for this Standard Ebook corresponds to the 1921 second English edition published by Egoist Press. The 2016 critical edition of Exiles notes discrepancies between Joyce's fair copy manuscript of the play and all published editions preceding their own.</meta>
-		<meta property="se:word-count">26528</meta>
+		<meta property="se:word-count">26374</meta>
 		<meta property="se:reading-ease.flesch">88.84</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Exiles_(play)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/james-joyce_exiles</meta>
