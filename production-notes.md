@@ -1,0 +1,1 @@
+According to the Project Gutenberg copyright clearance database, the transcription used for this Standard Ebook corresponds to the 1921 second English edition published by Egoist Press. The 2016 critical edition of Exiles notes discrepancies between Joyce's fair copy manuscript of the play and all published editions preceding their own.
