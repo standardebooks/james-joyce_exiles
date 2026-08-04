@@ -50,7 +50,7 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="schema:genre">Drama</meta>
-		<dc:abstract>An unmarried couple in early twentieth-century Dublin struggle with the consequences of their respective infidelities.</dc:abstract>
+		<meta property="schema:abstract">An unmarried couple in early twentieth-century Dublin struggle with the consequences of their respective infidelities.</meta>
 		<dc:description>
 			&lt;p&gt;Having spent nine years in Italy, writer Richard Rowan and his de facto wife Bertha have recently returned to Dublin with their eight-year-old son Archie. Beatrice Justice, who arrives at the Rowans’ house at the play’s opening, has corresponded with Richard throughout their absence, and her appointment as his son’s piano teacher is an excuse for them to see one another. The beginnings of a relationship have also formed between Bertha and Richard’s friend the journalist Robert Hand.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Exiles&lt;/i&gt;, &lt;a href="https://standardebooks.org/ebooks/james-joyce"&gt;James Joyce’s&lt;/a&gt; only surviving play, explores without fully resolving a possible outcome of this premise. Its main themes are freedom and doubt in personal relationships, marital infidelity, and what Joyce refers to in his notes as Richard’s “spiritual abandonment” of Bertha. Without being entirely autobiographical, &lt;i&gt;Exiles&lt;/i&gt; contains elements of Joyce’s own life: he and his wife Nora did not marry until long after their children had been born in Italy, where they too lived as “exiles” from Ireland.&lt;/p&gt;
